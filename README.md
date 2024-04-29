@@ -1,19 +1,23 @@
-## NeoVim
+# NeoVim
 
-#This setup uses Lazy.
+This setup uses Lazy.
 
-##Installation
-#Windows:
+# Installation~
+
+## Windows:
+
 C:/Users/[UserName]/Appdata/local/ then create the nvim folder
 
-#Mac:
+## Mac:
+
 .config/ then nvim folder [if not sure, then Google]
 
-##Requirements
--C compiler
--NeoVim
--maybe some more ..
+## Requirements~
 
-Thanks to [Typecraft-dev.](http://www.youtube.com/@typecraft_dev)
--ThePrimeegen
--TJ
+-C compiler  
+-NeoVim  
+-maybe some more stuff..
+
+Thanks to [Typecraft-dev.](http://www.youtube.com/@typecraft_dev)  
+-ThePrimeegen  
+-TJDev
