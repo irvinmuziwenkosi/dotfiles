@@ -1,6 +1,8 @@
 # NeoVim
 
-This setup uses Lazy.
+This setup uses 'Lazy'.
+
+Plus T-Mux ...
 
 # Installation~
 
@@ -8,9 +10,9 @@ This setup uses Lazy.
 
 C:/Users/[UserName]/Appdata/local/ then create the nvim folder
 
-## Mac:
+## Mac & Linux:
 
-.config/ then nvim folder [if not sure, then Google]
+.config/ then nvim folder
 
 ## Requirements~
 
