@@ -4,6 +4,8 @@ This setup uses 'Lazy'.
 
 Plus T-Mux ...
 
+### Enjoy(^_-)
+
 # Installation~
 
 ## Windows:
