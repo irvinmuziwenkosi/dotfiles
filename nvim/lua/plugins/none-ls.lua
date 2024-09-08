@@ -18,7 +18,7 @@ return {
         null_ls.builtins.diagnostics.golangci_lint,
         null_ls.builtins.diagnostics.hadolint,
         null_ls.builtins.diagnostics.ktlint,
-        null_ls.builtins.diagnostics.markuplint,
+        -- null_ls.builtins.diagnostics.markuplint,
         null_ls.builtins.diagnostics.mypy,
         null_ls.builtins.diagnostics.phpcs,
         null_ls.builtins.diagnostics.revive,

@@ -28,6 +28,7 @@ return {
 					"rust_analyzer",
 					"sqlls",
 					"sqls",
+          "gopls",
 					"biome",
 					"emmet_language_server",
 				},
@@ -49,6 +50,7 @@ return {
 			lspconfig.rust_analyzer.setup({ capabilities = capabilities })
 			lspconfig.dartls.setup({ capabilities = capabilities })
 			lspconfig.biome.setup({ capabilities = capabilities })
+			lspconfig.gopls.setup({ capabilities = capabilities })
 			lspconfig.html.setup({ capabilities = capabilities })
 			lspconfig.cssls.setup({ capabilities = capabilities })
 			lspconfig.clangd.setup({ capabilities = capabilities })
