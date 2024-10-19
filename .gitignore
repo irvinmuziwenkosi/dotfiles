@@ -1,3 +1,4 @@
 #Ignore these files
 .luarc.json
-lazy-lock.json
+lazy-lock.jsonnvim/plugins
+nvim/workspace
