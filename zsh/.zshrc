@@ -135,3 +135,16 @@ source <(ng completion script)
 [[ -f /home/imk/.dart-cli-completion/zsh-config.zsh ]] && . /home/imk/.dart-cli-completion/zsh-config.zsh || true
 ## [/Completion]
 
+
+# Add JBang to environment
+alias j!=jbang
+export PATH="$HOME/.jbang/bin:$PATH"
+
+# Quarkus
+source <(quarkus completion)
+
+# Golang
+export PATH=$PATH:$(go env GOPATH)/bin
+
+# Java
+export JAVA_HOME='/usr/lib/jvm/java-21-openjdk'

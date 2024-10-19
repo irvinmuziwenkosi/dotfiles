@@ -1,0 +1,11 @@
+!SESSION 2024-10-15 19:55:51.912 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.4
+java.vendor=Arch Linux
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_ZA
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-15 19:55:52.792
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-15 19:55:52.932
+!MESSAGE Main thread is waiting
