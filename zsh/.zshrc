@@ -121,7 +121,7 @@ alias imk='echo "
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /usr/share/nvm/init-nvm.sh
-export FLUTER_ROOT='/opt/flutter'
+export FLUTTER_ROOT='/opt/flutter'
 export PATH="$HOME/flutter/bin:$PATH"
 export PATH=$PATH:~/Android/Sdk/platform-tools
 export PATH=$PATH:~/Android/Sdk/cmdline-tools
